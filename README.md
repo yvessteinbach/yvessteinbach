@@ -1,13 +1,6 @@
 
 # Hi, I'm Yves! 👋
 
-<div>
-  <strong>💼&nbsp;IT-System Engineer</strong>
-  <br>
-  <strong>📌&nbsp;Basel, Switzerland 🇨🇭</strong>
-
-</div>
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=adventofcode&logoColor=white)]([https://www.instagram.com/yves.steinbach](https://www.yvessteinbach.com/))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/yves-steinbach/))
